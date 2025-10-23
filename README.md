@@ -77,7 +77,7 @@ cd frontend && npm run dev
 
 <br>
 
-# **Project 2: ASI PREDICTION**
+# **Project 2: AI-powered risk engine**
 
 **Backend Setup (Python/FastAPI)**
 cd backend
